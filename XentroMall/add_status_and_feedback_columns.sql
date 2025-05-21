@@ -1,0 +1,3 @@
+ALTER TABLE tenant_details
+ADD COLUMN status VARCHAR(50) DEFAULT NULL,
+ADD COLUMN admin_feedback TEXT DEFAULT NULL;

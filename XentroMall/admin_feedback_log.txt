@@ -1,0 +1,12 @@
+Application ID: 6
+Action: Approve
+Feedback: your application is approved
+Tenant Email: affionado@gmail.com
+Date: 2025-05-15 15:14:04
+
+Application ID: 7
+Action: Approve
+Feedback: your application is approved
+Tenant Email: jhaneloumagbuhosramos@gmail.com
+Date: 2025-05-15 15:21:33
+
